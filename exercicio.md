@@ -8,7 +8,7 @@ Utilize um array unidimensional (vetor) do tipo primitivo boolean para represent
 
 Seu aplicativo nunca deve atribuir uma poltrona que já foi reservada. Quando a classe econômica estiver lotada, seu aplicativo deve perguntar à pessoa se ela aceita ficar na primeira classe (e vice-versa). Se a pessoa aceitar, faça a atribuição apropriada de assento. Se não aceitar, exiba a mensagem “O próximo voo parte em 3 horas”.
 
-![cardeais.png](images\cardeais.png)
+![cardeais.png](images/cardeais.png)
 
 [images folder](/images/)
 
